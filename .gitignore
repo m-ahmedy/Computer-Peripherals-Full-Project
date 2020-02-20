@@ -1,0 +1,10 @@
+# Ignore all
+*
+
+# Except
+!*.c
+!*.mcppi
+!/*
+
+!/WindowsFormsApp1/*
+!/WindowsFormsApp1/WindowsFormsApp1/*
